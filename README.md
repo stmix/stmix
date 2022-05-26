@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Michał
 
-
-Here you can get some facts about me:
+5 facts about me:
 
 - 🔭 I’m currently working on Flutter App - Genecar 
 - 🌱 I’m currently learning Java, Flutter and SQL
